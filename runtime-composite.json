@@ -1,0 +1,1 @@
+{"models":{"PersonalInfo":{"id":"kjzl6hvfrbw6c57a7yxllfh8jatm5ubnke08b3jsb19dgf7he8zs3kuhixcsx4m","accountRelation":{"type":"single"}}},"objects":{"PersonalInfo":{"githubId":{"type":"string","required":false},"walletAddress":{"type":"string","required":true}}},"enums":{},"accountData":{"personalInfo":{"type":"node","name":"PersonalInfo"}}}
